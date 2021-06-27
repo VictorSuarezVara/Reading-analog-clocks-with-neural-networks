@@ -10,7 +10,12 @@ Datsets used in Kaggle here:
 - https://www.kaggle.com/vctorsuarezvara/datasets
 - https://www.kaggle.com/shivajbd/analog-clocks
     
+## Executions
+Executions of modeling here:
+- https://wandb.ai/dowhiler/pytorch-demo
+
     
+
 ## License
 
 **Free Software, Hell Yeah!**
