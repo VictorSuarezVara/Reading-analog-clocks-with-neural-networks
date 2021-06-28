@@ -4,6 +4,7 @@ Project of reading analog clocks using PyTorch and with bunch of generators of d
 ## Models
 - Basic arquitecture named well-basline/
 - ResNet pretrained with 1 simple fully layer
+- You can see it to on Col·lab : https://colab.research.google.com/drive/1pMY_5KVzplGUeonhD6MPSsIOWY4lvFi3?usp=sharing
   
 ## Datasets
 Datsets used in Kaggle here:
