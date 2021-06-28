@@ -1,0 +1,6 @@
+To execute this generator first of all you need to download the background from this webside or the one you preffer ans save the Backgrounds on Backgrounds/Good Ones
+
+Our recomendation: 
+#http://web.mit.edu/torralba/www/indoor.html
+
+Then execute the TexturesDatasetOfCLocksGenerator.py and chose the number of data that you want .
