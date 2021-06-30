@@ -10,11 +10,8 @@ Project of reading analog clocks using PyTorch and with bunch of generators of d
 Datsets used in Kaggle here:
 - https://www.kaggle.com/vctorsuarezvara/datasets
 - https://www.kaggle.com/shivajbd/analog-clocks
-    <p align="center">
-  <img src="Reading-analog-clocks-with-neural-networks/Dataset of Clocks Generators/Any Clock Dataset Generator/showall.jpg" title="hover text">
-  <img src="Reading-analog-clocks-with-neural-networks/Dataset of Clocks Generators/Any Clock Dataset Generator/showall.jpg" width="350" alt="accessibility text">
-    </p>
 
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg">
 
 ## Executions
 Executions of modeling here:
