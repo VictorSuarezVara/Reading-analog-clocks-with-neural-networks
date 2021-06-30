@@ -1,3 +1,6 @@
+
+## Steps
+
 To execute this generator first of all you need to download the background from this webside or the one you preffer and save it on Backgrounds/Good Ones
 
 Our recomendation: 
@@ -14,3 +17,8 @@ Change the angulus using the helper_to_rotate_the_extracted_parts_of_the_clock.p
 
 Last step:
 Execute the AnyClockDatasetGenerator.py and make shure that all his requiriments are well.
+
+
+## Example
+
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg">
