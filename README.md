@@ -3,16 +3,13 @@ Project of reading analog clocks using PyTorch and with bunch of generators of d
 
 ## Models
 - Basic arquitecture named well-basline
-<br>
-<br>
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/ResNet%20pretrained%20Arquitecture.png" width="450" height="300"> 
-<br>
+<p align="center"><img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/ResNet%20pretrained%20Arquitecture.png" width="550" height="220"> </p>
 <br>
 
 - ResNet pretrained with 1 simple fully layer
-<br><br>
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/Well%20Baseline%20Model%20Arquitecture.png"  width="450" height="300" >
-<br><br>
+<p align="center">
+  <img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/Well%20Baseline%20Model%20Arquitecture.png"  width="850" height="320" >
+  </p>
 
 - You can see it too on Col·lab: <br>
 https://colab.research.google.com/drive/1pMY_5KVzplGUeonhD6MPSsIOWY4lvFi3?usp=sharing
@@ -23,21 +20,25 @@ These are the Datasets of clocks generated in this project.
 <br>
          **Dataset of video clocks:**
 <br>
+<p align="center">
+  <img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Dataset%20of%20video%20clocks%20generator/showall.jpg" width="450" height="300">   
+</p>
 <br>
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Dataset%20of%20video%20clocks%20generator/showall.jpg" width="450" height="300"> 
 <br>
+         Any Clock Dataset:
 <br>
-         **Any Clock Dataset:**
+<p align="center">
+  <img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg"  width="450" height="300" >
+</p>
 <br><br>
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg"  width="450" height="300" >
-<br><br>
-         **Textures Dataset:**
-<br><br>
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Textures%20Dataset%20Generator/showall.jpg" width="450" height="300"> 
+         Textures Dataset:
+<br>
+<p align="center"><img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Textures%20Dataset%20Generator/showall.jpg" width="450" height="300"> </p>
 <br><br>
 The Datsets used have been upload in Kaggle here:
-- https://www.kaggle.com/vctorsuarezvara/datasets
-- https://www.kaggle.com/shivajbd/analog-clocks
+<br>
+ - https://www.kaggle.com/vctorsuarezvara/datasets <br>
+ - https://www.kaggle.com/shivajbd/analog-clocks
 
 ## Executions
 Executions of modeling here:
