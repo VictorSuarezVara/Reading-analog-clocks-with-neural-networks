@@ -3,7 +3,17 @@ Project of reading analog clocks using PyTorch and with bunch of generators of d
 
 ## Models
 - Basic arquitecture named well-basline
+<br>
+<br>
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/ResNet%20pretrained%20Arquitecture.png" width="450" height="300"> 
+<br>
+<br>
+
 - ResNet pretrained with 1 simple fully layer
+<br><br>
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Models/Well%20Baseline%20Model%20Arquitecture.png"  width="450" height="300" >
+<br><br>
+
 - You can see it too on Col·lab: <br>
 https://colab.research.google.com/drive/1pMY_5KVzplGUeonhD6MPSsIOWY4lvFi3?usp=sharing
   
