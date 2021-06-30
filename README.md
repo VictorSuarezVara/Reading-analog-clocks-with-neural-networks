@@ -10,14 +10,20 @@ Project of reading analog clocks using PyTorch and with bunch of generators of d
 Datsets used in Kaggle here:
 - https://www.kaggle.com/vctorsuarezvara/datasets
 - https://www.kaggle.com/shivajbd/analog-clocks
-    
+    <p align="center">
+  <img src="Reading-analog-clocks-with-neural-networks/Dataset of Clocks Generators/Any Clock Dataset Generator/showall.jpg" title="hover text">
+  <img src="Reading-analog-clocks-with-neural-networks/Dataset of Clocks Generators/Any Clock Dataset Generator/showall.jpg" width="350" alt="accessibility text">
+    </p>
+
+
 ## Executions
 Executions of modeling here:
 - https://wandb.ai/dowhiler/pytorch-demo
 
     
 ## Feel free
-Feel free to writ-me a msg if you want somthing of this repo or something else.
+Feel free to write me a msg if you want somthing of this repo or something else.
+/
 victorsuarezvara@gmail.com
 
 ## License
