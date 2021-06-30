@@ -16,6 +16,9 @@ Executions of modeling here:
 - https://wandb.ai/dowhiler/pytorch-demo
 
     
+## Feel free
+Feel free to writ-me a msg if you want somthing of this repo or something else.
+victorsuarezvara@gmail.com
 
 ## License
 
