@@ -2,15 +2,32 @@
 Project of reading analog clocks using PyTorch and with bunch of generators of datasets of clocks
 
 ## Models
-- Basic arquitecture named well-basline/
+- Basic arquitecture named well-basline
 - ResNet pretrained with 1 simple fully layer
-- You can see it too on Col·lab : https://colab.research.google.com/drive/1pMY_5KVzplGUeonhD6MPSsIOWY4lvFi3?usp=sharing
+- You can see it too on Col·lab: <br>
+https://colab.research.google.com/drive/1pMY_5KVzplGUeonhD6MPSsIOWY4lvFi3?usp=sharing
   
 ## Datasets
-Datsets used in Kaggle here:
+These are the Datasets of clocks generated in this project.
+<br>
+<br>
+         **Dataset of video clocks:**
+<br>
+<br>
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Dataset%20of%20video%20clocks%20generator/showall.jpg" width="450" height="300"> 
+<br>
+<br>
+         **Any Clock Dataset:**
+<br><br>
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg"  width="450" height="300" >
+<br><br>
+         **Textures Dataset:**
+<br><br>
+<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Textures%20Dataset%20Generator/showall.jpg" width="450" height="300"> 
+<br><br>
+The Datsets used have been upload in Kaggle here:
 - https://www.kaggle.com/vctorsuarezvara/datasets
 - https://www.kaggle.com/shivajbd/analog-clocks
-<img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Dataset%20of%20video%20clocks%20generator/showall.jpg" width="350" height="300"> <img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Textures%20Dataset%20Generator/showall.jpg" width="350" height="300"> <img src="https://github.com/VictorSuarezVara/Reading-analog-clocks-with-neural-networks/blob/main/Dataset%20of%20Clocks%20Generators/Any%20Clock%20Dataset%20Generator/showall.jpg"  width="350" height="300">
 
 ## Executions
 Executions of modeling here:
