@@ -1,5 +1,5 @@
 # Reading-analog-clocks-with-neural-networks
-Project of reading analog clocks using PyTorch and with bunch of generators of datasets of clocks
+Project of reading analog clocks usinng PyTorch and with bunch of generators of datasets of clocks
 
 ## Models
 - Basic arquitecture named well-basline
